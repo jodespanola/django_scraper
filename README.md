@@ -72,8 +72,7 @@ The API that I created can perform both get and post requests.
 
 * **Sample Call:**
 
-```
-curl -X GET http://127.0.0.1:8000/product/```
+```curl -X GET http://127.0.0.1:8000/product/```
 
 ## My Process
 
